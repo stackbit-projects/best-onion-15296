@@ -2,7 +2,7 @@
 title: Project Title 1
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
-thumb_image: images/1_thumb.jpg
+thumb_image: images/Screen Shot 2020-12-25 at 2.11.57 AM.png
 image: images/1.jpg
 template: project
 ---
